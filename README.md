@@ -1,1 +1,2 @@
 # AWS_SNS-AWS_CloudWatch
+透過CloudWatch服務中的logs群組來獲取SNS發送簡訊後的狀態以及成功與否
